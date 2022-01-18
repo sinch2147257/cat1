@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="CH.xsl"?>
+<Emp  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="CHC.xsd"
+>
+    <company>
+        <Employee >
+            <Emp_name> Sinchana </Emp_name>
+            <Emp_age>25</Emp_age>
+            <Emp_salary>60000</Emp_salary>
+            <Emp_emailid>sinch@gmail.com</Emp_emailid>
+            <Emp_Phonenum>1234567893</Emp_Phonenum>
+            <Emp_designation> Trainee </Emp_designation>
+        </Employee>
+
+        <Employee >
+            <Emp_name> Aneeta </Emp_name>
+            <Emp_age>26</Emp_age>
+            <Emp_salary>75000</Emp_salary>
+            <Emp_emailid>anee@gmail.com</Emp_emailid>
+            <Emp_Phonenum>1344567893</Emp_Phonenum>
+            <Emp_designation> Trainee </Emp_designation>
+        </Employee>
+
+        <Employee >
+            <Emp_name> Aami </Emp_name>
+            <Emp_age>27</Emp_age>
+            <Emp_salary>64000</Emp_salary>
+            <Emp_emailid>aami@gmail.com</Emp_emailid>
+            <Emp_Phonenum>1234999893</Emp_Phonenum>
+            <Emp_designation> software engineer </Emp_designation>
+        </Employee>
+
+        <Employee >
+            <Emp_name> Arjun</Emp_name>
+            <Emp_age>43</Emp_age>
+            <Emp_salary>67000</Emp_salary>
+            <Emp_emailid>arj@gmail.com</Emp_emailid>
+            <Emp_Phonenum>1232348893</Emp_Phonenum>
+            <Emp_designation> sales </Emp_designation>
+        </Employee>
+
+        <Employee >
+            <Emp_name> Sain</Emp_name>
+            <Emp_age>48</Emp_age>
+            <Emp_salary>68000</Emp_salary>
+            <Emp_emailid>sain@gmail.com</Emp_emailid>
+            <Emp_Phonenum>9992348893</Emp_Phonenum>
+            <Emp_designation> Sales </Emp_designation>
+        </Employee>
+
+        <Employee >
+            <Emp_name> Ashwin</Emp_name>
+            <Emp_age>56</Emp_age>
+            <Emp_salary>80000</Emp_salary>
+            <Emp_emailid>sain@gmail.com</Emp_emailid>
+            <Emp_Phonenum>9992348893</Emp_Phonenum>
+            <Emp_designation> Team Lead </Emp_designation>
+        </Employee>
+    </company>
+
+</Emp>
